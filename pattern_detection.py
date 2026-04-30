@@ -1,3 +1,4 @@
+
 """Per-user LLM pattern classification (Stage1). Uses OpenRouter API."""
 
 import json
@@ -36,7 +37,7 @@ def log_llm_call(stage, user_id, timestamp, model, prompt, input_artifacts, outp
         "output_artifact": output_artifact,
     }
     with open(LLM_CALLS_FILE, "a") as f:
-        f.write(json.dumps(entry) + "\n")
+        f.write(json.dumps(entry) + '\n')
 
 
 def build_prompt(user_id, features, last_30_trades):
@@ -98,7 +99,7 @@ def call_llm(prompt, retries=3):
 def parse_response(text):
     text = text.strip()
     if text.startswith("```"):
-        lines = text.split("\n")
+        lines = text.splitlines()
         text = "\n".join(l for l in lines if not l.strip().startswith("```"))
     return json.loads(text)
 
@@ -175,8 +176,7 @@ def main():
     with open(PATTERNS_FILE, "w") as f:
         json.dump(results, f, indent=2)
 
-    print("\nSaved patterns for {} users to {}".format(len(results), PATTERNS_FILE))
-
+    print("Saved patterns for {} users to {}".format(len(results), PATTERNS_FILE))
 
 if __name__ == "__main__":
     main()
