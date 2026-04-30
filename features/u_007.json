@@ -1,0 +1,481 @@
+{
+  "user_id": "u_007",
+  "total_trades": 100,
+  "average_stake": 41.47,
+  "total_stake_usd": 4147,
+  "stake_escalation_ratio_after_losses": 1.2205,
+  "escalation_pairs": [
+    {
+      "loss_trade_id": "t_00375",
+      "next_trade_id": "t_00378",
+      "ratio": 1.6471
+    },
+    {
+      "loss_trade_id": "t_00382",
+      "next_trade_id": "t_00391",
+      "ratio": 0.75
+    },
+    {
+      "loss_trade_id": "t_00398",
+      "next_trade_id": "t_00402",
+      "ratio": 1.0
+    },
+    {
+      "loss_trade_id": "t_00416",
+      "next_trade_id": "t_00418",
+      "ratio": 1.2432
+    },
+    {
+      "loss_trade_id": "t_00418",
+      "next_trade_id": "t_00420",
+      "ratio": 1.1522
+    },
+    {
+      "loss_trade_id": "t_00420",
+      "next_trade_id": "t_00427",
+      "ratio": 0.2264
+    },
+    {
+      "loss_trade_id": "t_00427",
+      "next_trade_id": "t_00433",
+      "ratio": 5.3333
+    },
+    {
+      "loss_trade_id": "t_00438",
+      "next_trade_id": "t_00440",
+      "ratio": 0.6667
+    },
+    {
+      "loss_trade_id": "t_00440",
+      "next_trade_id": "t_00446",
+      "ratio": 1.95
+    },
+    {
+      "loss_trade_id": "t_00446",
+      "next_trade_id": "t_00448",
+      "ratio": 0.9487
+    },
+    {
+      "loss_trade_id": "t_00463",
+      "next_trade_id": "t_00469",
+      "ratio": 1.2857
+    },
+    {
+      "loss_trade_id": "t_00469",
+      "next_trade_id": "t_00472",
+      "ratio": 2.8519
+    },
+    {
+      "loss_trade_id": "t_00479",
+      "next_trade_id": "t_00481",
+      "ratio": 0.6406
+    },
+    {
+      "loss_trade_id": "t_00483",
+      "next_trade_id": "t_00488",
+      "ratio": 2.0278
+    },
+    {
+      "loss_trade_id": "t_00492",
+      "next_trade_id": "t_00493",
+      "ratio": 0.7895
+    },
+    {
+      "loss_trade_id": "t_00494",
+      "next_trade_id": "t_00496",
+      "ratio": 0.7031
+    },
+    {
+      "loss_trade_id": "t_00510",
+      "next_trade_id": "t_00511",
+      "ratio": 0.4194
+    },
+    {
+      "loss_trade_id": "t_00516",
+      "next_trade_id": "t_00518",
+      "ratio": 1.3529
+    },
+    {
+      "loss_trade_id": "t_00518",
+      "next_trade_id": "t_00520",
+      "ratio": 0.6522
+    },
+    {
+      "loss_trade_id": "t_00522",
+      "next_trade_id": "t_00523",
+      "ratio": 0.6441
+    },
+    {
+      "loss_trade_id": "t_00523",
+      "next_trade_id": "t_00525",
+      "ratio": 0.5
+    },
+    {
+      "loss_trade_id": "t_00525",
+      "next_trade_id": "t_00527",
+      "ratio": 2.0
+    },
+    {
+      "loss_trade_id": "t_00529",
+      "next_trade_id": "t_00532",
+      "ratio": 1.1633
+    },
+    {
+      "loss_trade_id": "t_00535",
+      "next_trade_id": "t_00540",
+      "ratio": 4.4545
+    },
+    {
+      "loss_trade_id": "t_00540",
+      "next_trade_id": "t_00542",
+      "ratio": 1.4694
+    },
+    {
+      "loss_trade_id": "t_00542",
+      "next_trade_id": "t_00544",
+      "ratio": 0.2083
+    },
+    {
+      "loss_trade_id": "t_00546",
+      "next_trade_id": "t_00548",
+      "ratio": 0.95
+    },
+    {
+      "loss_trade_id": "t_00548",
+      "next_trade_id": "t_00550",
+      "ratio": 2.4737
+    },
+    {
+      "loss_trade_id": "t_00553",
+      "next_trade_id": "t_00554",
+      "ratio": 0.54
+    },
+    {
+      "loss_trade_id": "t_00556",
+      "next_trade_id": "t_00559",
+      "ratio": 0.5217
+    },
+    {
+      "loss_trade_id": "t_00559",
+      "next_trade_id": "t_00561",
+      "ratio": 0.5833
+    },
+    {
+      "loss_trade_id": "t_00568",
+      "next_trade_id": "t_00571",
+      "ratio": 1.0167
+    },
+    {
+      "loss_trade_id": "t_00577",
+      "next_trade_id": "t_00579",
+      "ratio": 0.3158
+    },
+    {
+      "loss_trade_id": "t_00586",
+      "next_trade_id": "t_00588",
+      "ratio": 0.7031
+    },
+    {
+      "loss_trade_id": "t_00588",
+      "next_trade_id": "t_00589",
+      "ratio": 1.0444
+    },
+    {
+      "loss_trade_id": "t_00601",
+      "next_trade_id": "t_00604",
+      "ratio": 1.3455
+    },
+    {
+      "loss_trade_id": "t_00604",
+      "next_trade_id": "t_00605",
+      "ratio": 0.6757
+    },
+    {
+      "loss_trade_id": "t_00610",
+      "next_trade_id": "t_00612",
+      "ratio": 0.6182
+    },
+    {
+      "loss_trade_id": "t_00613",
+      "next_trade_id": "t_00614",
+      "ratio": 0.8571
+    },
+    {
+      "loss_trade_id": "t_00617",
+      "next_trade_id": "t_00618",
+      "ratio": 2.5263
+    },
+    {
+      "loss_trade_id": "t_00618",
+      "next_trade_id": "t_00619",
+      "ratio": 1.0417
+    },
+    {
+      "loss_trade_id": "t_00619",
+      "next_trade_id": "t_00620",
+      "ratio": 0.76
+    },
+    {
+      "loss_trade_id": "t_00620",
+      "next_trade_id": "t_00621",
+      "ratio": 0.8421
+    },
+    {
+      "loss_trade_id": "t_00625",
+      "next_trade_id": "t_00626",
+      "ratio": 0.806
+    }
+  ],
+  "trades_per_minute": 0.0356,
+  "total_trading_minutes": 2806.0,
+  "pct_trades_near_high_impact_news": 0.0,
+  "near_news_count": 0,
+  "near_news_trades": [],
+  "win_rate": 56.0,
+  "winning_trades": 56,
+  "losing_trades": 44,
+  "revenge_interval_seconds": 1453.45,
+  "revenge_intervals": [
+    {
+      "loss_trade_id": "t_00375",
+      "next_trade_id": "t_00378",
+      "interval_seconds": 618.0
+    },
+    {
+      "loss_trade_id": "t_00382",
+      "next_trade_id": "t_00391",
+      "interval_seconds": 1828.0
+    },
+    {
+      "loss_trade_id": "t_00398",
+      "next_trade_id": "t_00402",
+      "interval_seconds": 142.0
+    },
+    {
+      "loss_trade_id": "t_00416",
+      "next_trade_id": "t_00418",
+      "interval_seconds": 1165.0
+    },
+    {
+      "loss_trade_id": "t_00418",
+      "next_trade_id": "t_00420",
+      "interval_seconds": 622.0
+    },
+    {
+      "loss_trade_id": "t_00420",
+      "next_trade_id": "t_00427",
+      "interval_seconds": 2557.0
+    },
+    {
+      "loss_trade_id": "t_00427",
+      "next_trade_id": "t_00433",
+      "interval_seconds": 1886.0
+    },
+    {
+      "loss_trade_id": "t_00438",
+      "next_trade_id": "t_00440",
+      "interval_seconds": 1520.0
+    },
+    {
+      "loss_trade_id": "t_00440",
+      "next_trade_id": "t_00446",
+      "interval_seconds": 1659.0
+    },
+    {
+      "loss_trade_id": "t_00446",
+      "next_trade_id": "t_00448",
+      "interval_seconds": 498.0
+    },
+    {
+      "loss_trade_id": "t_00463",
+      "next_trade_id": "t_00469",
+      "interval_seconds": 1530.0
+    },
+    {
+      "loss_trade_id": "t_00469",
+      "next_trade_id": "t_00472",
+      "interval_seconds": 680.0
+    },
+    {
+      "loss_trade_id": "t_00479",
+      "next_trade_id": "t_00481",
+      "interval_seconds": 1173.0
+    },
+    {
+      "loss_trade_id": "t_00483",
+      "next_trade_id": "t_00488",
+      "interval_seconds": 6211.0
+    },
+    {
+      "loss_trade_id": "t_00492",
+      "next_trade_id": "t_00493",
+      "interval_seconds": 1120.0
+    },
+    {
+      "loss_trade_id": "t_00494",
+      "next_trade_id": "t_00496",
+      "interval_seconds": 2180.0
+    },
+    {
+      "loss_trade_id": "t_00510",
+      "next_trade_id": "t_00511",
+      "interval_seconds": 1157.0
+    },
+    {
+      "loss_trade_id": "t_00516",
+      "next_trade_id": "t_00518",
+      "interval_seconds": 749.0
+    },
+    {
+      "loss_trade_id": "t_00518",
+      "next_trade_id": "t_00520",
+      "interval_seconds": 2057.0
+    },
+    {
+      "loss_trade_id": "t_00522",
+      "next_trade_id": "t_00523",
+      "interval_seconds": 251.0
+    },
+    {
+      "loss_trade_id": "t_00523",
+      "next_trade_id": "t_00525",
+      "interval_seconds": 1347.0
+    },
+    {
+      "loss_trade_id": "t_00525",
+      "next_trade_id": "t_00527",
+      "interval_seconds": 324.0
+    },
+    {
+      "loss_trade_id": "t_00529",
+      "next_trade_id": "t_00532",
+      "interval_seconds": 1883.0
+    },
+    {
+      "loss_trade_id": "t_00535",
+      "next_trade_id": "t_00540",
+      "interval_seconds": 2656.0
+    },
+    {
+      "loss_trade_id": "t_00540",
+      "next_trade_id": "t_00542",
+      "interval_seconds": 1044.0
+    },
+    {
+      "loss_trade_id": "t_00542",
+      "next_trade_id": "t_00544",
+      "interval_seconds": 1158.0
+    },
+    {
+      "loss_trade_id": "t_00546",
+      "next_trade_id": "t_00548",
+      "interval_seconds": 2556.0
+    },
+    {
+      "loss_trade_id": "t_00548",
+      "next_trade_id": "t_00550",
+      "interval_seconds": 619.0
+    },
+    {
+      "loss_trade_id": "t_00553",
+      "next_trade_id": "t_00554",
+      "interval_seconds": 393.0
+    },
+    {
+      "loss_trade_id": "t_00556",
+      "next_trade_id": "t_00559",
+      "interval_seconds": 2197.0
+    },
+    {
+      "loss_trade_id": "t_00559",
+      "next_trade_id": "t_00561",
+      "interval_seconds": 1106.0
+    },
+    {
+      "loss_trade_id": "t_00568",
+      "next_trade_id": "t_00571",
+      "interval_seconds": 812.0
+    },
+    {
+      "loss_trade_id": "t_00577",
+      "next_trade_id": "t_00579",
+      "interval_seconds": 371.0
+    },
+    {
+      "loss_trade_id": "t_00586",
+      "next_trade_id": "t_00588",
+      "interval_seconds": 814.0
+    },
+    {
+      "loss_trade_id": "t_00588",
+      "next_trade_id": "t_00589",
+      "interval_seconds": 2499.0
+    },
+    {
+      "loss_trade_id": "t_00601",
+      "next_trade_id": "t_00604",
+      "interval_seconds": 1995.0
+    },
+    {
+      "loss_trade_id": "t_00604",
+      "next_trade_id": "t_00605",
+      "interval_seconds": 812.0
+    },
+    {
+      "loss_trade_id": "t_00610",
+      "next_trade_id": "t_00612",
+      "interval_seconds": 2290.0
+    },
+    {
+      "loss_trade_id": "t_00613",
+      "next_trade_id": "t_00614",
+      "interval_seconds": 2433.0
+    },
+    {
+      "loss_trade_id": "t_00617",
+      "next_trade_id": "t_00618",
+      "interval_seconds": 502.0
+    },
+    {
+      "loss_trade_id": "t_00618",
+      "next_trade_id": "t_00619",
+      "interval_seconds": 1775.0
+    },
+    {
+      "loss_trade_id": "t_00619",
+      "next_trade_id": "t_00620",
+      "interval_seconds": 2478.0
+    },
+    {
+      "loss_trade_id": "t_00620",
+      "next_trade_id": "t_00621",
+      "interval_seconds": 1231.0
+    },
+    {
+      "loss_trade_id": "t_00625",
+      "next_trade_id": "t_00626",
+      "interval_seconds": 1054.0
+    }
+  ],
+  "longest_losing_streak": 4,
+  "losing_streak_sequences": [
+    [
+      "t_00416",
+      "t_00418",
+      "t_00420",
+      "t_00427"
+    ],
+    [
+      "t_00617",
+      "t_00618",
+      "t_00619",
+      "t_00620"
+    ]
+  ],
+  "total_net_profit_loss": 333.2,
+  "average_session_duration_minutes": 2806.42,
+  "session_count": 1,
+  "session_durations": [
+    2806.42
+  ]
+}

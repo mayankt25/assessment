@@ -1,0 +1,218 @@
+[
+  {
+    "user_id": "u_001",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  },
+  {
+    "user_id": "u_002",
+    "patterns": [
+      "revenge_trading"
+    ],
+    "evidence": [
+      {
+        "pattern": "revenge_trading",
+        "triggering_features": [
+          "revenge_interval_seconds",
+          "revenge_intervals"
+        ],
+        "trade_ids": [
+          "t_00041",
+          "t_00042",
+          "t_00043",
+          "t_00050",
+          "t_00051",
+          "t_00052",
+          "t_00053",
+          "t_00054",
+          "t_00057",
+          "t_00058",
+          "t_00059",
+          "t_00060",
+          "t_00064",
+          "t_00220",
+          "t_00222",
+          "t_00225",
+          "t_00263",
+          "t_00264",
+          "t_00265",
+          "t_00266",
+          "t_00267",
+          "t_00272",
+          "t_00273",
+          "t_00310",
+          "t_00311",
+          "t_00317",
+          "t_00318",
+          "t_00320",
+          "t_00321",
+          "t_00326",
+          "t_00327",
+          "t_00328",
+          "t_00330",
+          "t_00332",
+          "t_00333",
+          "t_00334",
+          "t_00338",
+          "t_00370",
+          "t_00371",
+          "t_00372",
+          "t_00380",
+          "t_00384",
+          "t_00385",
+          "t_00388",
+          "t_00390",
+          "t_00396",
+          "t_00399",
+          "t_00400",
+          "t_00401",
+          "t_00410",
+          "t_00411",
+          "t_00412"
+        ],
+        "explanation": "The user consistently places trades very shortly after incurring a loss, as indicated by the low revenge_interval_seconds (473.26) and numerous entries in the revenge_intervals list. This suggests an attempt to quickly recover losses."
+      }
+    ],
+    "confidence": "high"
+  },
+  {
+    "user_id": "u_003",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  },
+  {
+    "user_id": "u_004",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  },
+  {
+    "user_id": "u_005",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  },
+  {
+    "user_id": "u_006",
+    "patterns": [
+      "revenge_trading"
+    ],
+    "evidence": [
+      {
+        "pattern": "revenge_trading",
+        "triggering_features": [
+          "revenge_interval_seconds",
+          "losing_streak_sequences"
+        ],
+        "trade_ids": [
+          "t_00260",
+          "t_00270",
+          "t_00271",
+          "t_00277",
+          "t_00278",
+          "t_00280",
+          "t_00281",
+          "t_00282",
+          "t_00285",
+          "t_00289",
+          "t_00291",
+          "t_00297",
+          "t_00302",
+          "t_00306",
+          "t_00313",
+          "t_00316",
+          "t_00324",
+          "t_00339",
+          "t_00341",
+          "t_00345",
+          "t_00350",
+          "t_00353",
+          "t_00356",
+          "t_00362",
+          "t_00366",
+          "t_00374",
+          "t_00377",
+          "t_00387",
+          "t_00395",
+          "t_00425",
+          "t_00429",
+          "t_00435",
+          "t_00437",
+          "t_00439",
+          "t_00442",
+          "t_00449",
+          "t_00452",
+          "t_00458",
+          "t_00467",
+          "t_00471",
+          "t_00475",
+          "t_00480",
+          "t_00482",
+          "t_00484",
+          "t_00485",
+          "t_00489",
+          "t_00495",
+          "t_00499",
+          "t_00500",
+          "t_00505",
+          "t_00507",
+          "t_00512",
+          "t_00514",
+          "t_00515",
+          "t_00517",
+          "t_00519",
+          "t_00521",
+          "t_00528",
+          "t_00530",
+          "t_00539",
+          "t_00541",
+          "t_00543",
+          "t_00545",
+          "t_00547",
+          "t_00549",
+          "t_00551",
+          "t_00552",
+          "t_00555",
+          "t_00557",
+          "t_00558",
+          "t_00560",
+          "t_00564",
+          "t_00569",
+          "t_00572",
+          "t_00576",
+          "t_00578",
+          "t_00581",
+          "t_00583"
+        ],
+        "explanation": "The user consistently places trades shortly after incurring losses, as evidenced by the numerous entries in the 'revenge_intervals' list and the relatively short average revenge interval (1584.19 seconds). The long losing streak also supports this pattern."
+      }
+    ],
+    "confidence": "medium"
+  },
+  {
+    "user_id": "u_007",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  },
+  {
+    "user_id": "u_008",
+    "patterns": [
+      "insufficient_evidence"
+    ],
+    "evidence": [],
+    "confidence": "low"
+  }
+]

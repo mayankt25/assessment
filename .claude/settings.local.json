@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills *)",
+      "Bash(pip install *)",
+      "Bash(python generate_data.py)",
+      "Bash(\\\\\")",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"open\\('pattern_detection.py','w'\\).write\\(''\\)\")",
+      "Bash(python -c \"exec\\(open\\('write_pattern.py'\\).read\\(\\)\\)\")"
+    ]
+  }
+}
